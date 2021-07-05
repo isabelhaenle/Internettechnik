@@ -1,0 +1,27 @@
+.überschrift {
+  font-size: 35px;
+  font-family: helvetica;
+}
+
+.bilderimkopf {
+  background-color: lightgrey;
+  background-size: cover;
+}
+
+.coolio {
+  font-size: 16px;
+  font-family: helvetica;
+}
+
+.heyho {
+  font-size: 16px;
+}
+
+.zeilenabstand {
+  line-height: 150%;
+  font-size: 12px;
+}
+
+a {
+  font-size: 16px;
+}
